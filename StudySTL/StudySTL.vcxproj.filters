@@ -22,4 +22,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="studymap.h">
+      <Filter>头文件\map</Filter>
+    </ClInclude>
+    <ClInclude Include="studylist.h">
+      <Filter>头文件\map</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
